@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+    <service id="1">
+        <name>BankService</name>
+        <path>com.Reggie.service.BankService</path>
+        <implPath>com.Reggie.serviceImpl.BankServiceImpl</implPath>
+    </service>
+</services>
